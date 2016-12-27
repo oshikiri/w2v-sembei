@@ -1,0 +1,3 @@
+[submodule "docopt.cpp"]
+	path = docopt.cpp
+	url = https://github.com/docopt/docopt.cpp.git
