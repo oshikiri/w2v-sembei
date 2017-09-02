@@ -1,0 +1,11 @@
+*~
+TAGS
+
+*.o
+*.csv
+w2v-sembei
+output
+nul
+gmon.out
+
+.python-version
