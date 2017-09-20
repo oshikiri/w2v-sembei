@@ -25,5 +25,5 @@ The outputs are
 ## References
 
 1. Oshikiri, T. (2017). **Segmentation-Free Word Embedding for Unsegmented Languages**. In Proceedings of EMNLP2017. [[pdf](http://aclweb.org/anthology/D17-1081), [bib](http://aclweb.org/anthology/D17-1081.bib)]
-2. Mikolov, T., Corrado, G., Chen, K., & Dean, J. (2013). **Efficient Estimation of Word Representations in Vector Space**. In Proceedings of ICLR2013.
+2. Mikolov, T., Corrado, G., Chen, K., & Dean, J. (2013). **Efficient Estimation of Word Representations in Vector Space**. In Proceedings of ICLR2013. [[code](https://code.google.com/archive/p/word2vec/)]
 3. [shimo-lab/sembei - GitHub](https://github.com/shimo-lab/sembei)
